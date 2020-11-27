@@ -1,4 +1,4 @@
-package com.pavansgroup.vishaltraining.myapplication
+package com.dream.vishaltraining.vishal
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

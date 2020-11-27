@@ -1,4 +1,4 @@
-package com.pavansgroup.vishaltraining.myapplication
+package com.dream.vishaltraining.vishal
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

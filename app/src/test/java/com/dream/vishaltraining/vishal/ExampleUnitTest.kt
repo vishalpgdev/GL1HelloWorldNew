@@ -1,4 +1,4 @@
-package com.pavansgroup.vishaltraining.myapplication
+package com.dream.vishaltraining.vishal
 
 import org.junit.Test
 
